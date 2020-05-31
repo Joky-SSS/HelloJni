@@ -1,3 +1,4 @@
+include ':echo'
 rootProject.name='HelloJni'
-//include ':app'
+include ':app'
 include ':threads'
