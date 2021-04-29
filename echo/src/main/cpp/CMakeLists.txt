@@ -17,6 +17,7 @@ add_library( # Specifies the name of the library.
         SHARED
 
         # Provides a relative path to your source file(s).
+        Echo.cpp
         )
 
 # Specifies a path to native header files.
